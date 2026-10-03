@@ -94,7 +94,7 @@ Itihas-Yatra/
 
 1. Clone the repository
 
-git clone https://github.com/YOUR-USERNAME/Itihas-Yatra.git
+git clone https://github.com/Goutam-9142/Itihas-Yatra/tree/main
 
 2. Open the project
 
