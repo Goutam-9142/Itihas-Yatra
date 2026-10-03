@@ -304,7 +304,7 @@ If you find **Itihas Yatra** interesting or useful:
 For suggestions, collaboration, or feedback, feel free to connect through GitHub.
 
 **GitHub:**
-https://github.com/Goutam-9142
+https://github.com/Goutam-9142/Itihas-Yatra
 
 ---
 
